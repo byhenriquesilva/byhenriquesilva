@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 <div>
-   <a href="https://github.com/byhennriquesilva">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=byhennriquesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byhennriquesilva&layout=compact&langs_count=7&theme=tokyonight"/>
+   <a href="https://github.com/byhenriquesilva">
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=byhenriquesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byhenriquesilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  <div style="display: inline_block"><br>
