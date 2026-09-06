@@ -20,7 +20,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, jogos e organização. Gosto de criar ferramentas que facilitam o dia a dia e projetos que unem minhas paixões.
 
-- 🎮 **Fã de Minecraft** — criei o [Hub Mods Minecraft](https://github.com/byhenriquesilva/hub-mods-minecraft) para organizar meus mods favoritos
+- 🎮 **Fã de Minecraft** — criei o [Hub Mods Minecraft](https://hubmodsminecraft.vercel.app/) para organizar meus mods favoritos
 - 💻 **Desenvolvedor** — focado em aplicações web modernas e performáticas
 - 📚 **Aprendiz contínuo** — sempre explorando novas tecnologias e boas práticas
 - 🎯 **Objetivo** — construir soluções úteis e bem elaboradas
