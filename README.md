@@ -62,8 +62,8 @@ Sou um desenvolvedor apaixonado por tecnologia, jogos e organização. Gosto de 
 | Projeto | Descrição | Tecnologias |
 |:---:|---|---|
 | 🎮 [**Hub Mods Minecraft**](https://hubmodsminecraft.vercel.app/) | Hub pessoal para organizar e baixar mods de Minecraft | React, TypeScript, Vite, Tailwind |
-| ⚔️ [**Minecraft-Encantamentos**](https://github.com/byhenriquesilva/Minecraft-Encantamentos) | Lista interativa de encantamentos do Minecraft com filtros e informações detalhadas | React, TypeScript, Tailwind CSS |
-| 📚 [**from-mihon-to-anilist**](https://byhenriquesilva.github.io/from-mihon-to-anilist/) | Ferramenta para importar/exportar listas de mangá entre Mihon e AniList | Node.js, TypeScript |
+| ⚔️ [**Minecraft-Encantamentos**](https://github.com/byhenriquesilva/Minecraft-Encantamentos) | Lista interativa de encantamentos do Minecraft com filtros e informações detalhadas | Klotin |
+| 📚 [**from-mihon-to-anilist**](https://byhenriquesilva.github.io/from-mihon-to-anilist/) | Ferramenta para importar/exportar listas de mangá entre Mihon e AniList | Java Script |
 
 </div>
 
